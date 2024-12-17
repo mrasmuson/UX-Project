@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@octokit/action": "^3.8.1",
-    "@slack/webhook": "^6.0.0"
+    "@slack/webhook": "^6.1.0"
   }
 }
