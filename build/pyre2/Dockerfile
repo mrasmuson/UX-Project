@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.14.0a4
 
 COPY ./requirements.txt ./
 RUN pip3 install --no-cache-dir -r ./requirements.txt
